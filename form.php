@@ -1,3 +1,6 @@
+<!-- basic form, sending informations to thanks.php in post method.
+To fill with firstname, lastname, email, phone number, a subject and a message. -->
+
 <form action="thanks.php" method="post">
     <div>
         <label for="firstname">Prénom :</label>

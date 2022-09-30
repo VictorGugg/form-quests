@@ -1,3 +1,7 @@
+<!-- Page receiving the informations from the form.php
+Setting variables using the received POST datas
+Using the variables to write a message to the user. -->
+
 <?php
 
 $userFirstname = $_POST['user_firstname'];
